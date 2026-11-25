@@ -1,0 +1,8 @@
+{
+  "place": "none",
+  "title": "Keep awake",
+  "overlay": { "kind": "dialog", "width": 380 },
+  "palette": [
+    { "title": "Keep awake", "command": "mod.open", "args": { "name": "keep-awake" }, "words": "sleep caffeine awake power" }
+  ]
+}
