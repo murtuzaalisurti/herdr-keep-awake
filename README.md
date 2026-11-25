@@ -2,6 +2,9 @@
 
 Keeps your Windows PC from sleeping while your [Herdr](https://herdr.dev) agents are working, and lets it sleep normally once they're done.
 
+> [!NOTE]
+> This only supports **Windows** for now. macOS (`caffeinate`) and Linux (`systemd-inhibit`) support may come later; PRs are welcome.
+
 ![Keep awake](preview.png)
 
 - Turn it on or off from the command palette. Nothing is added to your layout.
